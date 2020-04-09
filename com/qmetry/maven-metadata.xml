@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Maven Integration - QMetry Test Management</name>
+      <prefix>qtm4j</prefix>
+      <artifactId>automation</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
