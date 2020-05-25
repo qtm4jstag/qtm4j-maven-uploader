@@ -3,11 +3,10 @@
   <groupId>com.qmetry</groupId>
   <artifactId>automation</artifactId>
   <versioning>
-    <latest>2.0.2</latest>
-    <release>2.0.2</release>
+    <latest>2.0.3-SNAPSHOT</latest>
     <versions>
-      <version>2.0.2</version>
+      <version>2.0.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200409082839</lastUpdated>
+    <lastUpdated>20200525131757</lastUpdated>
   </versioning>
 </metadata>
